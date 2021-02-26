@@ -1,1 +1,1 @@
-Texto nuevo versión A
+Texto nuevo versión B (nueva rama)
