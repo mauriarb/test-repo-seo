@@ -1,1 +1,1 @@
-Texto nuevo versión B (nueva rama)
+Texto nuevo versión B (nueva rama feature/ejemplo)
